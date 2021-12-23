@@ -12,3 +12,6 @@ __pycache__/
 .tox
 env/
 tags
+.pypirc
+build/
+dist/
